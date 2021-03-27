@@ -16,7 +16,7 @@ spec:
         service: frontend
     spec:
       containers:
-      - image: surabhya/udagram-frontend
+      - image: djd4352/uda-frontend
         name: frontend
         imagePullPolicy: Always          
         resources:
